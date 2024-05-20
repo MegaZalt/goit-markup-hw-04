@@ -70,9 +70,11 @@ ul {
     gap: 40px;
 }
 
-.menu-studio {
+.menu-item {
     position: relative;
-    color: #404bbf;
+}
+
+.menu-studio {
     padding-top: 24px;
     padding-bottom: 24px;
     font-weight: 500;
