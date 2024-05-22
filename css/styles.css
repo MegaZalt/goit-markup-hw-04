@@ -276,6 +276,12 @@ ul {
     text-align: center;
 }
 
+.social-media {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
 .wrap-portfolio {
     padding-top: 120px;
     padding-bottom: 120px;
