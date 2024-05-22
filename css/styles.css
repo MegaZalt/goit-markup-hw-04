@@ -377,6 +377,10 @@ ul {
     align-items: baseline;
 }
 
+.footer-inf {
+    margin-right: 120px;
+}
+
 .footer-logo {
     display: inline-block;
     margin-bottom: 16px;
