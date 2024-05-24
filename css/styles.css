@@ -350,6 +350,15 @@ ul {
     border-top: none;
 }
 
+.port-pic .portfolio-text{
+    transform: translateY(100%);
+    transition: transform 250ms ease-in-out;
+}
+
+.list-port li:hover .portfolio-text {
+    transform: translateY(0%);
+}
+
 .portfolio-name {
     font-weight: 500;
     font-size: 20px;
